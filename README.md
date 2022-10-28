@@ -1,7 +1,11 @@
 - @omrijsharon 
-- Working on autonomous fpv/racer drones, a glove to control fpv quads, multi-agent RL with communication, etc...
-- Will be happpy to collaborate on a project including a fleet of cooperating drones.
-- [Reach me](https://www.linkedin.com/in/omri-sharon-5680866a/)
+- Working on: 
+  - Autonomous fpv/racer drones: simulations, control, planning, perception.
+  - GyroGlove: a remote control glove for fpv.
+  - Multi-Agent Reinforcement Learning with agent-agent communication.
+  - Extending Pytorch with easy to use implementations such as: HyperNetworks, Complex tensors and operators/layers, sharpened cosine similarity with loss, etc...
+- Will be happpy to collaborate on projects including multi-agents.
+- [Reach me here!](https://www.linkedin.com/in/omri-sharon-5680866a/)
 
 <!---
 omrijsharon/omrijsharon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
