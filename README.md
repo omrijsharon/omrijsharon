@@ -2,7 +2,7 @@
 - Working on: 
   - Autonomous fpv/racer drones: simulations, control, planning, perception.
   - GyroGlove: a remote control glove for fpv.
-  - Laser Tag for FPV drones (showing game parameters on the OSD, shooting with the RC).
+  - IR FPV system (LaserTag dogfights, Racing timers, etc...). With MSP OSD (BetaFlight, iNav compatible).
   - Multi-Agent Reinforcement Learning with agent-agent/s communication.
   - Extending Pytorch with easy to use implementations such as: HyperNetworks, MDN, Complex tensors and operators/layers, sharpened cosine similarity with loss, etc...
 - Will be happpy to collaborate on projects including multi-agents.
